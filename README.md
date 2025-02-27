@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @irichu
+- 👀 I’m interested in Python, Shogi, and Termux
+- 🌱 I’m currently learning Golang programming
 
 <!--
 - 👀 I’m interested in ...
